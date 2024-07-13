@@ -12,7 +12,7 @@ import random
 
 
 
-df = pandas.read_csv("E:\\Documents\\AMU_2024\\DATS201\\week6\\Customer_Behavior_Prediction_Dataset.csv")
+df = pandas.read_csv("FILEPATH.csv")
 df.info()
 #print(df['Purchase']) :: examples of how to view data in .csv
 #print(df['Purchase'][2]):: examples of how to view data in .csv
